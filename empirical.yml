@@ -1,0 +1,6 @@
+experiments:
+  sqrt-solver:
+    type: solver
+    environment:
+      build .
+    evalutor: ivanGzz/sqrt-evaluator:
